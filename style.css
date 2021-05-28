@@ -93,7 +93,7 @@ nav ul {
 
 .hero {
   background-image: linear-gradient(rgba(0, 0, 0, 0.8), transparent),
-    url("/img/hero-background.jpg");
+    url("img/hero-background.jpg");
   min-height: 90vh;
   background-repeat: no-repeat;
   background-size: cover;
